@@ -21,7 +21,7 @@ def index():
 
 def fetch_conversion_factor(source,target):
 
-    url = "https://free.currconv.com/api/v7/convert?q={}_{}&compact=ultra&apiKey=46522ec42724160cca37".format(source,target)
+    url = "https://free.currconv.com/api/v7/convert?q={}_{}&compact=ultra&apiKey=your_api_key".format(source,target)
 
     response = requests.get(url)
     response = response.json()
