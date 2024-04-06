@@ -18,6 +18,8 @@ To use the Currency Converter Bot, follow these steps:
 3. **Selecting Target Currency**: Choose the target currency to which you want to convert the specified amount.
 4. **Viewing Conversion Result**: The bot will provide the converted amount based on real-time exchange rates.
 
+## Example Conversion
+![image](https://github.com/prithviraj-ai/Currency-converter-bot/assets/127374751/e3c7801a-ae85-4f52-95d9-56f6a5632013)
 
 ## Technologies Used
 
